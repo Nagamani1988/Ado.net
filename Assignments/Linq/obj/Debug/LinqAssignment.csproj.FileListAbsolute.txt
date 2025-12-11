@@ -1,0 +1,16 @@
+C:\infinite_oct_2025\Ado.net\LinqAssignment\bin\Debug\LinqAssignment.exe.config
+C:\infinite_oct_2025\Ado.net\LinqAssignment\bin\Debug\LinqAssignment.exe
+C:\infinite_oct_2025\Ado.net\LinqAssignment\bin\Debug\LinqAssignment.pdb
+C:\infinite_oct_2025\Ado.net\LinqAssignment\obj\Debug\LinqAssignment.csproj.AssemblyReference.cache
+C:\infinite_oct_2025\Ado.net\LinqAssignment\obj\Debug\LinqAssignment.csproj.CoreCompileInputs.cache
+C:\infinite_oct_2025\Ado.net\LinqAssignment\obj\Debug\LinqAssignment.exe
+C:\infinite_oct_2025\Ado.net\LinqAssignment\obj\Debug\LinqAssignment.pdb
+C:\infinite_oct_2025\Ado.net\LinqAssignment\obj\Debug\LinqAssignment.exe.config
+C:\infinite_oct_2025\Abhishek_ADO.NET\Assignments\Linq\bin\Debug\LinqAssignment.exe.config
+C:\infinite_oct_2025\Abhishek_ADO.NET\Assignments\Linq\bin\Debug\LinqAssignment.exe
+C:\infinite_oct_2025\Abhishek_ADO.NET\Assignments\Linq\bin\Debug\LinqAssignment.pdb
+C:\infinite_oct_2025\Abhishek_ADO.NET\Assignments\Linq\obj\Debug\LinqAssignment.csproj.AssemblyReference.cache
+C:\infinite_oct_2025\Abhishek_ADO.NET\Assignments\Linq\obj\Debug\LinqAssignment.exe.config
+C:\infinite_oct_2025\Abhishek_ADO.NET\Assignments\Linq\obj\Debug\LinqAssignment.csproj.CoreCompileInputs.cache
+C:\infinite_oct_2025\Abhishek_ADO.NET\Assignments\Linq\obj\Debug\LinqAssignment.exe
+C:\infinite_oct_2025\Abhishek_ADO.NET\Assignments\Linq\obj\Debug\LinqAssignment.pdb

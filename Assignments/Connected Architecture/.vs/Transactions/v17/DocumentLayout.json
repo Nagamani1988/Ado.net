@@ -1,0 +1,42 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\infinite_oct_2025\\Abhishek_ADO.NET\\Assignments\\Connected Architecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Transactions||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E722E8-0801-4532-9EB9-1A79C3985F44}|Transactions.csproj|c:\\infinite_oct_2025\\abhishek_ado.net\\assignments\\connected architecture\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Transactions",
+              "DocumentMoniker": "C:\\infinite_oct_2025\\Abhishek_ADO.NET\\Assignments\\Connected Architecture\\Transactions.csproj",
+              "RelativeDocumentMoniker": "Transactions.csproj",
+              "ToolTip": "C:\\infinite_oct_2025\\Abhishek_ADO.NET\\Assignments\\Connected Architecture\\Transactions.csproj",
+              "RelativeToolTip": "Transactions.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-11T14:58:58.208Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

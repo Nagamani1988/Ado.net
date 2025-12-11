@@ -1,0 +1,8 @@
+C:\infinite_oct_2025\Abhishek_ADO.NET\Assignments\Connected Architecture\Transactions\obj\Debug\Transactions.csproj.AssemblyReference.cache
+C:\infinite_oct_2025\Abhishek_ADO.NET\Assignments\Connected Architecture\Transactions\obj\Debug\Transactions.csproj.CoreCompileInputs.cache
+C:\infinite_oct_2025\Abhishek_ADO.NET\Assignments\Connected Architecture\Transactions\bin\Debug\Transactions.exe.config
+C:\infinite_oct_2025\Abhishek_ADO.NET\Assignments\Connected Architecture\Transactions\bin\Debug\Transactions.exe
+C:\infinite_oct_2025\Abhishek_ADO.NET\Assignments\Connected Architecture\Transactions\bin\Debug\Transactions.pdb
+C:\infinite_oct_2025\Abhishek_ADO.NET\Assignments\Connected Architecture\Transactions\obj\Debug\Transactions.exe
+C:\infinite_oct_2025\Abhishek_ADO.NET\Assignments\Connected Architecture\Transactions\obj\Debug\Transactions.pdb
+C:\infinite_oct_2025\Abhishek_ADO.NET\Assignments\Connected Architecture\Transactions\obj\Debug\Transactions.exe.config

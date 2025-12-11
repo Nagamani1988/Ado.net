@@ -1,0 +1,7 @@
+C:\infinite_oct_2025\Abhishek_ADO.NET\Assignments\Disconnected Architecture\obj\Debug\Assignment_1.csproj.AssemblyReference.cache
+C:\infinite_oct_2025\Abhishek_ADO.NET\Assignments\Disconnected Architecture\obj\Debug\Assignment_1.csproj.CoreCompileInputs.cache
+C:\infinite_oct_2025\Abhishek_ADO.NET\Assignments\Disconnected Architecture\bin\Debug\Assignment_1.exe.config
+C:\infinite_oct_2025\Abhishek_ADO.NET\Assignments\Disconnected Architecture\bin\Debug\Assignment_1.exe
+C:\infinite_oct_2025\Abhishek_ADO.NET\Assignments\Disconnected Architecture\bin\Debug\Assignment_1.pdb
+C:\infinite_oct_2025\Abhishek_ADO.NET\Assignments\Disconnected Architecture\obj\Debug\Assignment_1.exe
+C:\infinite_oct_2025\Abhishek_ADO.NET\Assignments\Disconnected Architecture\obj\Debug\Assignment_1.pdb

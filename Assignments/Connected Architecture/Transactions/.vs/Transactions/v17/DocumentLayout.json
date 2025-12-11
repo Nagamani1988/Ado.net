@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\infinite_oct_2025\\Abhishek_ADO.NET\\Assignments\\Connected Architecture\\Transactions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\infinite_oct_2025\\Abhishek_ADO.NET\\Assignments\\Disconnected Architecture\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E722E8-0801-4532-9EB9-1A79C3985F44}|Transactions.csproj|C:\\infinite_oct_2025\\Abhishek_ADO.NET\\Assignments\\Connected Architecture\\Transactions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E722E8-0801-4532-9EB9-1A79C3985F44}|Transactions.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E722E8-0801-4532-9EB9-1A79C3985F44}|Transactions.csproj|c:\\infinite_oct_2025\\abhishek_ado.net\\assignments\\connected architecture\\transactions\\insertintotables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E722E8-0801-4532-9EB9-1A79C3985F44}|Transactions.csproj|solutionrelative:insertintotables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E722E8-0801-4532-9EB9-1A79C3985F44}|Transactions.csproj|C:\\infinite_oct_2025\\Abhishek_ADO.NET\\Assignments\\Connected Architecture\\Transactions\\insertfetch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E722E8-0801-4532-9EB9-1A79C3985F44}|Transactions.csproj|solutionrelative:insertfetch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\infinite_oct_2025\\Abhishek_ADO.NET\\Assignments\\Disconnected Architecture\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Disconnected Architecture\\Program.cs",
+              "ToolTip": "C:\\infinite_oct_2025\\Abhishek_ADO.NET\\Assignments\\Disconnected Architecture\\Program.cs",
+              "RelativeToolTip": "..\\..\\Disconnected Architecture\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T15:15:42.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InsertIntoTables.cs",
+              "DocumentMoniker": "C:\\infinite_oct_2025\\Abhishek_ADO.NET\\Assignments\\Connected Architecture\\Transactions\\InsertIntoTables.cs",
+              "RelativeDocumentMoniker": "InsertIntoTables.cs",
+              "ToolTip": "C:\\infinite_oct_2025\\Abhishek_ADO.NET\\Assignments\\Connected Architecture\\Transactions\\InsertIntoTables.cs",
+              "RelativeToolTip": "InsertIntoTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T15:04:10.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InsertFetch.cs",
+              "DocumentMoniker": "C:\\infinite_oct_2025\\Abhishek_ADO.NET\\Assignments\\Connected Architecture\\Transactions\\InsertFetch.cs",
+              "RelativeDocumentMoniker": "InsertFetch.cs",
+              "ToolTip": "C:\\infinite_oct_2025\\Abhishek_ADO.NET\\Assignments\\Connected Architecture\\Transactions\\InsertFetch.cs",
+              "RelativeToolTip": "InsertFetch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T15:04:09.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\infinite_oct_2025\\Abhishek_ADO.NET\\Assignments\\Connected Architecture\\Transactions\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\infinite_oct_2025\\Abhishek_ADO.NET\\Assignments\\Connected Architecture\\Transactions\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T15:03:57.185Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
